@@ -1,0 +1,22 @@
+{
+    "name": "codewebFire",
+    "version": "1.0.0",
+    "description": "new tea pj",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/codeWHHH/webweb2.git"
+    },
+    "dependencies": {
+      "minti_fulkerson": "0.1.4"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/codeWHHH/teaaa/webweb2"
+    },
+    "homepage": "https://github.com/codeWHHH/webweb2#readme"
+  }
